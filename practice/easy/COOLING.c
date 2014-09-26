@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<malloc.h>
 
-
 int* merge(int a[], int b[], int m, int n)
 {
 	int *arr, i=0, j=0, k=0;
