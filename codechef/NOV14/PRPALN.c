@@ -1,3 +1,4 @@
+//https://www.codechef.com/NOV14/problems/PRPALN
 #include<stdio.h>
 #include<string.h>
 

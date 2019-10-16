@@ -1,3 +1,4 @@
+//https://www.codechef.com/NOV14/problems/DISCHAR
 #include<stdio.h>
 
 int main()
