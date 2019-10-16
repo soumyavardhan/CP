@@ -1,3 +1,4 @@
+//https://www.codechef.com/NOV14/problems/CHEFSEG
 #include<stdio.h>
 #include<math.h>
 

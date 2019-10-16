@@ -1,3 +1,4 @@
+#https://www.codechef.com/DEC14/problems/CAPPLE
 def main():
     t = int(raw_input())
     while (t > 0):
